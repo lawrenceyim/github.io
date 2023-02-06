@@ -39,27 +39,27 @@ h2 {
 }
 
 
-table#education td {
+table.education td {
     max-width: 500px;
     min-width: 300px;
     padding-bottom: 10px;
     vertical-align: text-top;
 }
 
-table#experiences td {
+table.experiences td {
     padding-bottom: 10px;
     max-width: 500px;
     min-width: 300px;
     vertical-align: text-top;
 }
 
-table#skills td {
+table.skills td {
     font-size: 20px;
     height: 40px;
     min-width: 100px;
 }
 
-table#skills td:hover {
+table.skills td:hover {
     color: red;
     font-size: 30px;
 }
